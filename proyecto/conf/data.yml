@@ -1,0 +1,219 @@
+# Test data
+
+Rutina(10k_1):
+    duracion:        1 month
+    objetivo:        Race of 10km
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                     
+Rutina(10k_2):
+    duracion:        2 months
+    objetivo:        Race of 10km
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                     
+Rutina(10k_3):
+    duracion:        3 months
+    objetivo:        Race of 10km
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+
+Rutina(10k_4):
+    duracion:        4 months
+    objetivo:        Race of 10km
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+
+Rutina(halfmarathon_1):
+    duracion:        1 month
+    objetivo:        Half marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                                          
+Rutina(halfmarathon_2):
+    duracion:        2 months
+    objetivo:        Half marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                     
+Rutina(halfmarathon_3):
+    duracion:        3 months
+    objetivo:        Half marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                                          
+Rutina(halfmarathon_4):
+    duracion:        4 months
+    objetivo:        Half marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                                          
+Rutina(marathon_1):
+    duracion:        1 month
+    objetivo:        Marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                                          
+Rutina(marathon_2):
+    duracion:        2 months
+    objetivo:        Marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+                                          
+Rutina(marathon_3):
+    duracion:        3 months
+    objetivo:        Marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km) 
+                                          
+Rutina(marathon_4):
+    duracion:        4 months
+    objetivo:        Marathon
+    dieta:           Normal
+    entrenamiento:   >
+                     Es necesario que los días elegidos para entrenar estén separados por días de descanso.
+                     
+                     Semana1: Iniciación (5a 8 Km trotando)
+                     
+                     Semana2: Velocidad (5 a 7 Km rápido)
+                     
+                     Semana 3: Simulación de carrera (10 Km rápido)
+                     
+                     Semana4: Preparación ( 5Km a ritmo de carrera i a falta de 3 días para la carrera salir a trotar 5Km)
+
+Usuario(lluc):
+    identificador:   lluc
+    password:        contra
+    nombre:          lluc
+    edad:            20
+    estatura:        180
+    peso:            75
+    rutina:          10k_1
+    genero:          men
+    
+Usuario(alex):
+    identificador:   alex
+    password:        contra
+    nombre:          alex
+    edad:            22
+    estatura:        170
+    peso:            75
+    rutina:          halfmarathon_1
+    genero:          women
+    
+Eventos(evento1):
+    nombre:  Media maraton de Sitges
+    objetivo:  10 km Media maraton
+    fecha:  11/01/2015
+    url:  http://www.mitjasitges.cat/
+    
+Eventos(evento2):
+    nombre:  Cursa Sant Antoni
+    objetivo: 10 km
+    fecha:  18/01/2015
+    url:  http://www.cursasantantoni.cat/
+    
+Eventos(evento3):
+    nombre: La Sansi Mataró
+    objetivo: 10 km
+    fecha: 11/01/2015
+    url: http://www.lasansi.com/ca/sansi-mataro/inscripcions96
